@@ -8,7 +8,7 @@ SESSION='"o4ovIlzQxFJLPlainW91ormPfMw=?id=VklEMTAwMDE4MTk4MApwMQou&sno=VjEwMzg5N
 SNO='09388448'
 
 # auth
-#curl -i -F 'sno=10389434' -F 'password=1111' $URL/signin
+curl -i -F 'sno=10389410' -F 'password=1111' $URL/signin
 
 # info api
 #curl -i --cookie "session=$SESSION" $URL/info
